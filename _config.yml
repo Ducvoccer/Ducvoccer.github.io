@@ -55,28 +55,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: 'Nguyen Danh Nam'
-  avatar: '/assets/images/nam.jpg'
-  bio: 'Cloud computing enthusiast. I am interested in Machine Learning, NLP, Data Science, Modern Data Architecture, and algorithms. My goal is to become an excellent programmer and to apply technology to improve the quality of our lives.'
+  name: 'Nguyen Trong Duc'
+  avatar: '/assets/images/avt.jpeg'
+  bio: 'I am a software engineer who loves to learn and create.'
   links:
-    - label: 'LinkedIn'
-      icon: 'fas fa-fw fa-link'
-      url: 'https://www.linkedin.com/in/namnguyendanh/'
-    - label: 'Facebook'
-      icon: 'fab fa-fw fa-facebook-square'
-      url: 'https://www.facebook.com/nam.nd.92/'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/namnguyendanh'
+      url: 'https://github.com/Ducvoccer'
 
 footer:
   links:
-    - label: 'LinkedIn'
-      icon: 'fas fa-fw fa-link'
-      url: 'https://linkedin.com/in/namnguyendanh'
-    - label: 'Facebook'
-      icon: 'fab fa-fw fa-facebook-square'
-      url: 'https://twitter.com/namndpy'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/Ducvoccer'
