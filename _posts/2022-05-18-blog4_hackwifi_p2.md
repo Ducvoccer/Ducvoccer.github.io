@@ -1,11 +1,11 @@
 ---
-title:  "Nghịch vài trò "hack" Wifi - Phần 2"
+title: 'Nghịch vài trò "hack" Wifi - Phần 2'
 header:
-    caption: 
-categories: 
-    - Technology
+  caption:
+categories:
+  - Technology
 tags:
-    - hackwifi
+  - hackwifi
 ---
 
 # Nghịch vài trò "hack" Wifi - Phần 2: WPS
