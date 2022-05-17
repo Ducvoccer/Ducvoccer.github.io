@@ -1,13 +1,13 @@
 ---
-title:  "Nghịch vài trò "hack" Wifi - Phần 1"
+title: 'Nghịch vài trò "hack" Wifi - Phần 1'
 header:
-    caption: Hack wifi by 4-way handshake
-categories: 
-    - Technology
+  caption: Hack wifi by 4-way handshake
+categories:
+  - Technology
 tags:
-    - hackwifi
-    - 4wayhandshake
-    - dictionary
+  - hackwifi
+  - 4wayhandshake
+  - dictionary
 ---
 
 # Nghịch vài trò "hack" Wifi - Phần 1
