@@ -5,10 +5,9 @@ title: 'About'
 
 Hi all,
 
-I've categorized all posts into 3 categories:
+I've categorized all posts into categories below:
 
 - Technology
-- Tea culture
 - ...
 
 If you want to discuss with me about topics written in my blog, you can contact me on:
